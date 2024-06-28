@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.gmail_app",
+    "sha256_cert_fingerprints":
+    ["19:7B:BE:ED:6F:5C:51:85:61:8D:1C:09:FA:03:11:BF:60:F5:31:36:B5:4B:36:54:CD:B1:F9:53:3C:92:CE:FB"]
+  }
+}]
